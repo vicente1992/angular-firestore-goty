@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mailer-245e3": {
+      "hosting": {
+        "game-of-the-year": [
+          "mailer-245e3"
+        ]
+      }
+    }
+  }
+}
