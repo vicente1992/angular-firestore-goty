@@ -7,25 +7,15 @@ export const environment = {
   url: 'http://localhost:5001/subir-imagen-d898d/us-central1',
 
   firebase: {
-    apiKey: "AIzaSyBef_JsvSvVtgPaoUGK0d0DJujzUfveJjk",
-    authDomain: "subir-imagen-d898d.firebaseapp.com",
-    databaseURL: "https://subir-imagen-d898d.firebaseio.com",
-    projectId: "subir-imagen-d898d",
-    storageBucket: "subir-imagen-d898d.appspot.com",
-    messagingSenderId: "175175578651",
-    appId: "1:175175578651:web:d0c308cf1c3c5441d774be",
-    measurementId: "G-WR1XJ09RR6"
+    apiKey: "##############",
+    authDomain: "##############",
+    databaseURL: "##############",
+    projectId: "##############",
+    storageBucket: "##############",
+    messagingSenderId: "##############",
+    appId: "##############",
+    measurementId: "##############"
   }
-  // firebase: {
-  //   apiKey: "##############",
-  //   authDomain: "##############",
-  //   databaseURL: "##############",
-  //   projectId: "##############",
-  //   storageBucket: "##############",
-  //   messagingSenderId: "##############",
-  //   appId: "##############",
-  //   measurementId: "##############"
-  // }
 
 };
 
